@@ -3,8 +3,8 @@
 ## Vincent Tran  
 Hello, and welcome to my GitHub. My name is Vincent Tran and I am an aspiring 17 year old developer with interests in Cybersecurity, and mostly all-things related to Computer Science.  
   
-Languages: Java, HTML, CSS, JS, Python  
-Frameworks and API: JavaFX, Firebase, React.JS, OpenCV  
+Languages: Java, HTML, CSS, JS, Python, C#  
+Frameworks and API: JavaFX, Firebase, React.JS, OpenCV, Unity  
 
 ### To-do List:  
 <ul>
