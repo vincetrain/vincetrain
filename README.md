@@ -10,6 +10,4 @@ Frameworks and API: JavaFX, Firebase, React.JS, OpenCV, Unity
 <ul>
   <li>Develop personal website / portfolio</li>
   <li>Finish developing localspeak -  A CUI, Java based chat-platform for easy contact over LAN using java.net</li>
-  <li>Learn C++ and develop a CUI pong game.</li>
-  <li>Learn Flutter and develop a quality-of-life application dedicated to Maple Highschool</li>
 </ul>
